@@ -1,0 +1,26 @@
+Biblioteca Pública de Modelos e Normas de DFD – TJSP / SAAB
+
+Descrição:
+Esta biblioteca contém os principais modelos institucionais utilizados pela Secretaria de Administração e Abastecimento (SAAB) do Tribunal de Justiça de São Paulo para a elaboração do Documento de Formalização da Demanda (DFD), conforme a Lei 14.133/2021, Decreto Estadual nº 67.381/2022 e Provimento CSM nº 2.724/2023.
+
+Modelos disponíveis:
+1. DFD - Contratação Ordinária
+   Link: https://raw.githubusercontent.com/cdmattostjsp-sys/tjsp-dfd-biblioteca-publica/main/modelos/DFD%20-%20Contrata%C3%A7%C3%A3o%20Ordin%C3%A1ria.docx
+
+2. DFD - Dispensa de Licitação
+   Link: https://raw.githubusercontent.com/cdmattostjsp-sys/tjsp-dfd-biblioteca-publica/main/modelos/DFD%20-%20Contrata%C3%A7%C3%A3o%20-%20Dispensa%20de%20Licita%C3%A7%C3%A3o.docx
+
+3. DFD - Inexigibilidade (art. 74 da Lei 14.133/2021)
+   Link: https://raw.githubusercontent.com/cdmattostjsp-sys/tjsp-dfd-biblioteca-publica/main/modelos/DFD%20-%20Inexigibilidade%20-%20art.%2074%20da%20Lei%2014.133-2021.docx
+
+4. DFD - Emergencial (inciso VIII, art. 75 da Lei 14.133/2021)
+   Link: https://raw.githubusercontent.com/cdmattostjsp-sys/tjsp-dfd-biblioteca-publica/main/modelos/DFD%20-%20Emergencial%20-%20inciso%20VIII,%20art.%2075%20-%20Lei%2014133-2021.docx
+
+5. DFD - Energia Elétrica
+   Link: https://raw.githubusercontent.com/cdmattostjsp-sys/tjsp-dfd-biblioteca-publica/main/modelos/DFD%20-%20Energia%20El%C3%A9trica.docx
+
+6. ARTEFATO I - DOD (TI)
+   Link: https://raw.githubusercontent.com/cdmattostjsp-sys/tjsp-dfd-biblioteca-publica/main/modelos/ARTEFATO%20I%20-%20DOD%20(TI).docx
+
+Observação:
+Os modelos acima seguem o formato institucional TJSP e podem ser utilizados como base para elaboração, validação e revisão de Documentos de Formalização da Demanda.
